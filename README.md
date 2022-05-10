@@ -1,9 +1,12 @@
 # How About No
 
-Chrome extension to block bullshit overlays that obscure content.
+Firefox port of @oliverzheng's extension to block bullshit overlays that obscure content.
 
 Subscribe to our mailing list! Like our Facebook page! Tweet this to your
 friends! Watch this promotional video first!
+
+## Todo:
+port the addon lmao
 
 ![How About No][nobear]
 
